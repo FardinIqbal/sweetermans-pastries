@@ -18,6 +18,13 @@
       <change afterPath="$PROJECT_DIR$/../webpack-demo/src/index.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../webpack-demo/src/myName.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../webpack-demo/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/Inside store.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/styles/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,13 +35,13 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hTlxFk5EOtdKDYrgB6VfoUlp9T" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -71,7 +78,8 @@
       <updated>1600043207289</updated>
       <workItem from="1600043208791" duration="1352000" />
       <workItem from="1600095592771" duration="14611000" />
-      <workItem from="1600265723566" duration="5932000" />
+      <workItem from="1600265723566" duration="11608000" />
+      <workItem from="1600289535627" duration="5106000" />
     </task>
     <servers />
   </component>
