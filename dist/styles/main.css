@@ -1,0 +1,97 @@
+* {
+    color: #000000;
+}
+
+ul {
+    padding: 10px;
+}
+.un-styled-list {
+    list-style: none;
+}
+
+.nav-item {
+    display: inline;
+}
+
+.logo {
+    height: 70px;
+    width: 140px;
+}
+
+.card-image {
+    height: 280px;
+    width: 400px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 100px;
+    padding: 0 5%;
+}
+
+.yellow-gradient-background {
+    background: #1ecbe1;
+}
+
+.nav-item2 {
+    flex-grow: 1;
+}
+.main-nav ul{
+    display: flex;
+    justify-content: space-around;
+}
+
+.main-nav li {
+    display: inline-block;
+    font-size: 24px;
+    transition: all 1s ease 0s;
+}
+.main-nav li a {
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    transition: all .3s ease 0s;
+}
+.main-nav li a:hover {
+    color: #E1341E;
+    background: rgba(160, 0, 255, 0.1);
+}
+
+header button {
+    font-size: 30px;
+    background-color: #E1341E;
+    color: #ffffff;
+    padding: 10px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    font-weight: bolder;
+    transition: all .3s ease 0s;
+}
+
+header button:hover {
+    background: rgba(160, 0, 255, 0.1);
+    color: #E1341E;
+}
+
+main {
+    display: grid;
+    grid-template-columns:  2fr 2fr 2fr;
+    justify-items: center;
+    align-items: center;
+    grid-gap: 10px 0;
+
+}
+
+.menu-card {
+    display: flex;
+    flex-direction: column;
+    border: gray solid 1px;
+    border-radius: 10px;
+    justify-content: center;
+    background: linear-gradient(to bottom right, #E1341E, #ffffff);
+}
+
